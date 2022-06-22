@@ -1,6 +1,6 @@
 # sobre mim
 
-- 👋 ola sou @richard almeida sousa
+- 👋 ola sou @richard 
 - 👀 estou interessado em programação
 - 🌱 estou aprendendo a programar com o curso do alura 
 
